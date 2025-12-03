@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="23" height="23" viewBox="0 0 23 23">
+  <g id="Groupe_3" data-name="Groupe 3" transform="translate(-9 -7)">
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="11.5" cy="11.5" r="11.5" transform="translate(9 7)"/>
+    <g id="Groupe_1" data-name="Groupe 1" transform="translate(12.867 9.732)">
+      <rect id="Rectangle_1" data-name="Rectangle 1" width="13" height="13" transform="translate(1.133 1.268)" fill="#fff"/>
+      <path id="linkedin" d="M14.118,32H1.083A1.091,1.091,0,0,0,0,33.1V46.108a1.091,1.091,0,0,0,1.083,1.1H14.118a1.094,1.094,0,0,0,1.086-1.1V33.1A1.094,1.094,0,0,0,14.118,32ZM4.6,45.032H2.342V37.776H4.6v7.256ZM3.468,36.785a1.307,1.307,0,1,1,1.307-1.307A1.307,1.307,0,0,1,3.468,36.785Zm9.574,8.247H10.789V41.5c0-.842-.017-1.924-1.171-1.924-1.174,0-1.354.916-1.354,1.863v3.591H6.01V37.776H8.172v.991H8.2A2.374,2.374,0,0,1,10.338,37.6c2.281,0,2.7,1.5,2.7,3.458Z" transform="translate(0 -32)"/>
+    </g>
+  </g>
+</svg>

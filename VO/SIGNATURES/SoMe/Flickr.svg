@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="23" height="23" viewBox="0 0 23 23">
+  <g id="Groupe_8" data-name="Groupe 8" transform="translate(-7 -7)">
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="11.5" cy="11.5" r="11.5" transform="translate(7 7)"/>
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="11" height="11" transform="translate(13 13)" fill="#fff"/>
+    <path id="flickr" d="M13.963,32H1.676A1.676,1.676,0,0,0,0,33.676V45.963a1.676,1.676,0,0,0,1.676,1.676H13.963a1.676,1.676,0,0,0,1.676-1.676V33.676A1.676,1.676,0,0,0,13.963,32ZM5.044,42.018A2.217,2.217,0,1,1,7.261,39.8,2.215,2.215,0,0,1,5.044,42.018Zm5.55,0A2.217,2.217,0,1,1,12.811,39.8,2.215,2.215,0,0,1,10.594,42.018Z" transform="translate(10.595 -21.405)"/>
+  </g>
+</svg>
